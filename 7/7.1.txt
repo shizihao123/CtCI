@@ -1,0 +1,8 @@
+$$
+P(game1) = p \\
+P(game2) = p^3 + C_3^2p(1-p)
+$$
+
+$$P(game1)>P(game2) \Rightarrow p > p^3 + 3p(1-p) \\
+\Rightarrow 1 > -2p^2 + 3p \Rightarrow (2p - 1)(p - 1) > 0 \\
+\Rightarrow $$

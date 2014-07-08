@@ -1,0 +1,9 @@
+\begin{itemize}
+\item mark these bottles from 0 to 19
+\item take $i$ pills from the bottle wihch is marked $i$. There have total $0+1+2+\dots+19=\frac{(0+19)\times 19}{2}=190$ pills.
+\item scale all pills
+\end{itemize}
+The bottle which marked $\frac{weight-190 g}{0.1 g}$ is the heavy bottle.
+
+
+
